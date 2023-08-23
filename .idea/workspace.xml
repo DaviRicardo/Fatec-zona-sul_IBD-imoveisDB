@@ -55,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1692737363404</updated>
       <workItem from="1692737364812" duration="3563000" />
-      <workItem from="1692785442688" duration="1895000" />
+      <workItem from="1692785442688" duration="4968000" />
+      <workItem from="1692807604713" duration="10094000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692739401006</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dados inseridos na tabela estado">
+      <created>1692794601765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692794601765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos" />
+    <MESSAGE value="Dados inseridos na tabela estado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dados inseridos na tabela estado" />
   </component>
 </project>
