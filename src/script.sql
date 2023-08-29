@@ -203,4 +203,6 @@ VALUES (1,'Aracaju','SE'),
        (74,'Nossa Senhora do Socorro','SE'),
        (75,'Itabaiana','SE'),
        (76,'Araguína','TO'),
-       (77,'Gurupi','TO');
+       (77,'Gurupi','TO'),
+       (78,'Ananindeua','PA'),
+       (79,'Santarém','PA');
