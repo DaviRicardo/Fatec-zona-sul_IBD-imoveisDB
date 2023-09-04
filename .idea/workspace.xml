@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78c69964-ec05-4aad-8a25-6f7e12887d24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <workItem from="1693582372378" duration="8425000" />
       <workItem from="1693661074039" duration="12615000" />
       <workItem from="1693770676789" duration="620000" />
-      <workItem from="1693847282211" duration="6138000" />
+      <workItem from="1693847282211" duration="6369000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693856493298</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização de dados na tabela cidade&#10;&#10;Nome do município 'Araguaína' (TO) corrigido diretamente na tabela cidade.">
+      <created>1693857426044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693857426044</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +121,7 @@
     <MESSAGE value="Dados inseridos na tabela cidade" />
     <MESSAGE value="Atualização de dados na tabela cidade&#10;&#10;Adição de dois dos principais municípios do Pará(PA)." />
     <MESSAGE value="Atualização de dados na tabela cidade&#10;&#10;Nome do município 'Araguaína' (TO) corrigido." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela cidade&#10;&#10;Nome do município 'Araguaína' (TO) corrigido." />
+    <MESSAGE value="Atualização de dados na tabela cidade&#10;&#10;Nome do município 'Araguaína' (TO) corrigido diretamente na tabela cidade." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela cidade&#10;&#10;Nome do município 'Araguaína' (TO) corrigido diretamente na tabela cidade." />
   </component>
 </project>
