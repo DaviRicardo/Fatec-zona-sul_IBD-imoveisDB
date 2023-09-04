@@ -31,11 +31,11 @@ CREATE TABLE IF NOT EXISTS compradores (
     idComprador INTEGER NOT NULL PRIMARY KEY,
     nmComprador VARCHAR(50) NOT NULL,
     nmEnderecoComprador VARCHAR(255) NOT NULL,
-    nrCpfComprador NUMERIC(11) UNIQUE,
+    nrCpfComprador NUMERIC(11,0) UNIQUE,
     cidade INTEGER NOT NULL,
     bairro INTEGER NOT NULL,
     sgEstado CHAR(2) NOT NULL,
-    telComprador INTEGER NOT NULL,
+    telComprador NUMERIC(11,0) NOT NULL,
     FOREIGN KEY (cidade) REFERENCES cidade(idCidade),
     FOREIGN KEY (bairro) REFERENCES bairro(idBairro),
     FOREIGN KEY (sgEstado) REFERENCES estado(sgEstado)
