@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78c69964-ec05-4aad-8a25-6f7e12887d24" name="Changes" comment="Dados inseridos na tabela cidade">
+    <list default="true" id="78c69964-ec05-4aad-8a25-6f7e12887d24" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.sql" afterDir="false" />
     </list>
@@ -59,7 +59,14 @@
       <workItem from="1692807604713" duration="13017000" />
       <workItem from="1692886122586" duration="13520000" />
       <workItem from="1692975200007" duration="3143000" />
-      <workItem from="1693320419430" duration="3705000" />
+      <workItem from="1693320419430" duration="16806000" />
+      <workItem from="1693344769027" duration="6557000" />
+      <workItem from="1693395928912" duration="25299000" />
+      <workItem from="1693498827622" duration="15675000" />
+      <workItem from="1693582372378" duration="8425000" />
+      <workItem from="1693661074039" duration="12615000" />
+      <workItem from="1693770676789" duration="620000" />
+      <workItem from="1693847282211" duration="5144000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -82,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692821754056</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Atualização de dados na tabela cidade&#10;&#10;Adição de dois dos principais municípios do Pará(PA).">
+      <created>1693324978060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693324978060</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +106,7 @@
     <MESSAGE value="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos" />
     <MESSAGE value="Dados inseridos na tabela estado" />
     <MESSAGE value="Dados inseridos na tabela cidade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dados inseridos na tabela cidade" />
+    <MESSAGE value="Atualização de dados na tabela cidade&#10;&#10;Adição de dois dos principais municípios do Pará(PA)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela cidade&#10;&#10;Adição de dois dos principais municípios do Pará(PA)." />
   </component>
 </project>
