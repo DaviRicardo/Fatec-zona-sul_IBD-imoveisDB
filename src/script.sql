@@ -51,7 +51,7 @@ CREATE TABLE IF NOT EXISTS vendedor (
     bairro INTEGER NOT NULL,
     sgEstado CHAR(2) NOT NULL,
     telefone INTEGER NOT NULL,
-    dataNasc DATE NOT ,NULL,
+    dataNasc DATE NOT NULL,
     FOREIGN KEY (cidade) REFERENCES cidade(idCidade),
     FOREIGN KEY (bairro) REFERENCES bairro(idBairro),
     FOREIGN KEY (sgEstado) REFERENCES estado(sgEstado)
@@ -202,11 +202,7 @@ VALUES (1,'Aracaju','SE'),
        (73,'Campinas','SP'),
        (74,'Nossa Senhora do Socorro','SE'),
        (75,'Itabaiana','SE'),
-       (76,'Araguína','TO'),
+       (76,'Araguaína','TO'),
        (77,'Gurupi','TO'),
        (78,'Ananindeua','PA'),
        (79,'Santarém','PA');
-
-UPDATE cidade
-SET nmCidade = 'Araguaína'
-WHERE idCidade = 76;
