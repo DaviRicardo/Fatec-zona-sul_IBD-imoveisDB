@@ -367,3 +367,16 @@ VALUES (1,'Atalaia',1,'SE'),
        (156,'Águas Lindas:',78,'PA'),
        (157,'Aeroporto Velho',79,'PA'),
        (158,'Aldeia',79,'PA');
+
+
+INSERT INTO compradores
+VALUES (1,'André Vitor Moreira','Avenida Getúlio Vargas',26929421243,21,41,'AC',68981445172),
+       (2,'Cláudio Diego Cardoso','Rua Desembargador Alfredo Gaspar de Mendonça',63661826476,14,28,'AL',82988647383),
+       (3,'Joaquim Cláudio Felipe Moraes','Travessa José Trajano',15664200243,13,25,'AP',96999851686),
+       (4,'Enzo Leonardo Santos','Rua Litorânea',57195248275,15,29,'AM',92969311559),
+       (5,'Daniela Nina da Conceição','Rua Monte de Jesus',80926125524,23,46,'BA',71988847960),
+       (6,'Isaac Roberto Vinicius Campos','Rua Afonso Celso',58803922369,10,20,'CE',88981513708),
+       (7,'Caroline Regina Rosângela Sales','Quadra CLN 403 Bloco C',38067705143,5,9,'DF',61997341653),
+       (8,'Emanuel Samuel Ruan Aragão','Rua Maria de Lourdes Poyares Labuto',94542063704,27,54,'ES',28980705556),
+       (9,'Noah Otávio Silveira','Avenida T 63',30380686163,11,21,'GO',62975609516),
+       (10,'Adriana Daniela Nicole Jesus','Rua Heráclito Graça',58850544367,24,48,'MA',99987182217);
