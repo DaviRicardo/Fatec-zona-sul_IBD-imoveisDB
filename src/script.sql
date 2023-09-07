@@ -73,7 +73,7 @@ CREATE TABLE IF NOT EXISTS imovel (
     cidade INTEGER NOT NULL,
     sgEstado CHAR(2) NOT NULL,
     faixa INTEGER NOT NULL,
-    oferta INTEGER NOT NULL,
+    oferta INTEGER NULL,
     nmEndereco VARCHAR(255) NOT NULL,
     nrAreaUtil FLOAT NOT NULL,
     nrAreaTotal FLOAT NOT NULL,

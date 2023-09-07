@@ -70,7 +70,7 @@
       <workItem from="1693847282211" duration="13216000" />
       <workItem from="1693924854636" duration="4480000" />
       <workItem from="1694016726681" duration="17418000" />
-      <workItem from="1694095246878" duration="16274000" />
+      <workItem from="1694095246878" duration="16655000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694109643875</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Dados inseridos na tabela faixa_imovel">
+      <created>1694115219896</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694115219896</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +190,7 @@
     <MESSAGE value="Atualização de dados na tabela vendedor&#10;&#10;Modificação de datatype." />
     <MESSAGE value="Dados inseridos na tabela vendedor" />
     <MESSAGE value="imovel, faixa_imovel&#10;&#10;Tabela faixa_imovel movida de lugar e chaves estrangeiras adicionadas na tabela imovel." />
-    <option name="LAST_COMMIT_MESSAGE" value="imovel, faixa_imovel&#10;&#10;Tabela faixa_imovel movida de lugar e chaves estrangeiras adicionadas na tabela imovel." />
+    <MESSAGE value="Dados inseridos na tabela faixa_imovel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dados inseridos na tabela faixa_imovel" />
   </component>
 </project>
