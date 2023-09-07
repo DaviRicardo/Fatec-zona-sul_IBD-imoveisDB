@@ -58,19 +58,33 @@ CREATE TABLE IF NOT EXISTS vendedor (
 );
 
 
+CREATE TABLE IF NOT EXISTS faixa_imovel (
+    idFaixa INTEGER NOT NULL PRIMARY KEY,
+    nmFaixa VARCHAR(50) NOT NULL,
+    vlMinimo FLOAT NOT NULL,
+    vlMaximo FLOAT NOT NULL
+);
+
+
 CREATE TABLE IF NOT EXISTS imovel (
     idImovel INTEGER NOT NULL PRIMARY KEY,
     vendedor INTEGER NOT NULL,
     bairro INTEGER NOT NULL,
     cidade INTEGER NOT NULL,
     sgEstado CHAR(2) NOT NULL,
+    faixa INTEGER NOT NULL,
+    oferta INTEGER NOT NULL,
     nmEndereco VARCHAR(255) NOT NULL,
     nrAreaUtil FLOAT NOT NULL,
     nrAreaTotal FLOAT NOT NULL,
     vlPreco FLOAT NOT NULL,
-    oferta INTEGER NOT NULL,
     stVendido VARCHAR(20),
-    dataLancto DATE NOT NULL
+    dataLancto DATE NOT NULL,
+    FOREIGN KEY (vendedor) REFERENCES vendedor(idVendedor),
+    FOREIGN KEY (bairro) REFERENCES bairro(idBairro),
+    FOREIGN KEY (cidade) REFERENCES cidade(idCidade),
+    FOREIGN KEY (sgEstado) REFERENCES estado(sgEstado),
+    FOREIGN KEY (faixa) REFERENCES faixa_imovel(idFaixa)
 );
 
 
@@ -86,14 +100,6 @@ CREATE TABLE IF NOT EXISTS oferta (
 
 
 ALTER TABLE imovel ADD FOREIGN KEY (oferta) REFERENCES oferta(idOferta);
-
-
-CREATE TABLE IF NOT EXISTS faixa_imovel (
-    idFaixa INTEGER NOT NULL PRIMARY KEY,
-    nmFaixa VARCHAR(50) NOT NULL,
-    vlMinimo FLOAT NOT NULL,
-    vlMaximo FLOAT NOT NULL
-);
 
 
 INSERT INTO estado

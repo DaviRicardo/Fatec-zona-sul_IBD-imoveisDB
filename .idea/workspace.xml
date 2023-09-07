@@ -70,7 +70,7 @@
       <workItem from="1693847282211" duration="13216000" />
       <workItem from="1693924854636" duration="4480000" />
       <workItem from="1694016726681" duration="17418000" />
-      <workItem from="1694095246878" duration="10981000" />
+      <workItem from="1694095246878" duration="13706000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694102712433</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Dados inseridos na tabela vendedor">
+      <created>1694106446018</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694106446018</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +174,7 @@
     <MESSAGE value="Atualização de dados na tabela compradores&#10;&#10;Modificação de datatype." />
     <MESSAGE value="Dados inseridos na tabela compradores" />
     <MESSAGE value="Atualização de dados na tabela vendedor&#10;&#10;Modificação de datatype." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela vendedor&#10;&#10;Modificação de datatype." />
+    <MESSAGE value="Dados inseridos na tabela vendedor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dados inseridos na tabela vendedor" />
   </component>
 </project>
