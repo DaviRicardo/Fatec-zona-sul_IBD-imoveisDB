@@ -70,7 +70,7 @@
       <workItem from="1693847282211" duration="13216000" />
       <workItem from="1693924854636" duration="4480000" />
       <workItem from="1694016726681" duration="17418000" />
-      <workItem from="1694095246878" duration="16655000" />
+      <workItem from="1694095246878" duration="19580000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694115219896</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Alteração de constraint na tabela imovel&#10;&#10;Coluna oferta passa a ter constraint NULL.">
+      <created>1694115754034</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694115754034</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,7 @@
     <MESSAGE value="Dados inseridos na tabela vendedor" />
     <MESSAGE value="imovel, faixa_imovel&#10;&#10;Tabela faixa_imovel movida de lugar e chaves estrangeiras adicionadas na tabela imovel." />
     <MESSAGE value="Dados inseridos na tabela faixa_imovel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dados inseridos na tabela faixa_imovel" />
+    <MESSAGE value="Alteração de constraint na tabela imovel&#10;&#10;Coluna oferta passa a ter constraint NULL." />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteração de constraint na tabela imovel&#10;&#10;Coluna oferta passa a ter constraint NULL." />
   </component>
 </project>
