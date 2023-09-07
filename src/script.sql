@@ -404,3 +404,9 @@ VALUES (1,'Brenda Stella Isabella Porto','Rua Manágua',84421927198,7,14,'MT',65
        (13,'Yasmin Vera Moura','Servidão Coruja do Campo',41795777982,9,18,'SC',48971162008,'1970-09-21'),
        (14,'Heitor Augusto Roberto Gomes','Rua dos Pinheiros',88083795828,25,50,'SP',11979623904,'1955-11-04'),
        (15,'Alícia Emily Heloisa da Costa','Alameda Celi Prado de Oliveira',34279285519,1,2,'SE',79972083364,'1994-08-28');
+
+
+INSERT INTO faixa_imovel
+VALUES (1,'baixo',0,105000),
+       (2,'médio',105001,180000),
+       (3,'alto',180001,999999);
