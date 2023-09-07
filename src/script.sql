@@ -380,3 +380,21 @@ VALUES (1,'André Vitor Moreira','Avenida Getúlio Vargas',26929421243,21,41,'AC
        (8,'Emanuel Samuel Ruan Aragão','Rua Maria de Lourdes Poyares Labuto',94542063704,27,54,'ES',28980705556),
        (9,'Noah Otávio Silveira','Avenida T 63',30380686163,11,21,'GO',62975609516),
        (10,'Adriana Daniela Nicole Jesus','Rua Heráclito Graça',58850544367,24,48,'MA',99987182217);
+
+
+INSERT INTO vendedor
+VALUES (1,'Brenda Stella Isabella Porto','Rua Manágua',84421927198,7,14,'MT',65976256080,'1967-10-14'),
+       (2,'Sophia Alessandra Peixoto','Rua Maria do Carmo Ferro',12246355150,6,12,'MS',67983450273,'1992-04-13'),
+       (3,'Julia Tatiane Ramos','Vila Casf',41348523409,2,3,'PA',93986232427,'1981-03-22'),
+       (4,'Marina Agatha Elza Melo','Rua Coronel Antônio Ferreira',37037919420,12,23,'PB',83967720871,'1974-03-19'),
+       (5,'Débora Pietra Pinto','Praça Hee Wing',56172928970,8,15,'PR',45998651573,'1996-01-19'),
+       (6,'Noah Filipe Hugo Barbosa','Rua dos Jasmins',12739284403,20,40,'PE',45998651573,'1965-03-30'),
+       (7,'Priscila Sophia Vera Ribeiro','Rua Matias Olímpio',97161463378,26,51,'PI',89995806542,'1977-04-18'),
+       (8,'Caroline Andreia Emily Viana','Rua Santa Clara',58973277774,22,43,'RJ',21969610583,'1984-10-27'),
+       (9,'Sara Sandra Louise dos Santos','Travessa Doutor Manoel Dantas',32885272430,16,31,'RN',84981505665,'1963-03-04'),
+       (10,'Sophia Fernanda Antonella da Luz','Parque Moinhos de Vento',12328607004,18,35,'RS',53971348603,'1995-03-11'),
+       (11,'Marcelo Carlos Bruno Martins','Avenida Farquar',31202963250,19,38,'RO',69981854147,'1966-12-17'),
+       (12,'Erick Hugo Silva','Rua do Sabiá',76485303251,4,8,'RR',95999242414,'1955-08-27'),
+       (13,'Yasmin Vera Moura','Servidão Coruja do Campo',41795777982,9,18,'SC',48971162008,'1970-09-21'),
+       (14,'Heitor Augusto Roberto Gomes','Rua dos Pinheiros',88083795828,25,50,'SP',11979623904,'1955-11-04'),
+       (15,'Alícia Emily Heloisa da Costa','Alameda Celi Prado de Oliveira',34279285519,1,2,'SE',79972083364,'1994-08-28');
