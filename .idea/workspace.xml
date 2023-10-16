@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78c69964-ec05-4aad-8a25-6f7e12887d24" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <workItem from="1697149145780" duration="6120000" />
       <workItem from="1697210413573" duration="5025000" />
       <workItem from="1697295028024" duration="14537000" />
-      <workItem from="1697472364652" duration="6545000" />
+      <workItem from="1697472364652" duration="14354000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -218,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697477388729</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Atualização de dados na tabela bairro&#10;&#10;Alteração de bairros.">
+      <created>1697481822913</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697481822914</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +251,7 @@
     <MESSAGE value="Atualização de dados na tabela imovel&#10;&#10;Modificação de datatype." />
     <MESSAGE value="cidade, bairro&#10;&#10;Alteração de municípios e bairros." />
     <MESSAGE value="Atualização de dados na tabela imovel&#10;&#10;Modificação de constraint." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela imovel&#10;&#10;Modificação de constraint." />
+    <MESSAGE value="Atualização de dados na tabela bairro&#10;&#10;Alteração de bairros." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela bairro&#10;&#10;Alteração de bairros." />
   </component>
 </project>
