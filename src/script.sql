@@ -624,3 +624,61 @@ VALUES (1,1,1,650000,'2023-07-19'),
        (48,48,10,400000,'2023-08-18'),
        (49,49,10,636000,'2023-08-30'),
        (50,50,10,650000,'2023-08-30');
+
+
+UPDATE imovel
+SET oferta =
+        CASE
+            WHEN idImovel = 1 THEN 1
+            WHEN idImovel = 2 THEN 2
+            WHEN idImovel = 3 THEN 3
+            WHEN idImovel = 4 THEN 4
+            WHEN idImovel = 5 THEN 5
+            WHEN idImovel = 6 THEN 6
+            WHEN idImovel = 7 THEN 7
+            WHEN idImovel = 8 THEN 8
+            WHEN idImovel = 9 THEN 9
+            WHEN idImovel = 10 THEN 10
+            WHEN idImovel = 11 THEN 11
+            WHEN idImovel = 12 THEN 12
+            WHEN idImovel = 13 THEN 13
+            WHEN idImovel = 14 THEN 14
+            WHEN idImovel = 15 THEN 15
+            WHEN idImovel = 16 THEN 16
+            WHEN idImovel = 17 THEN 17
+            WHEN idImovel = 18 THEN 18
+            WHEN idImovel = 19 THEN 19
+            WHEN idImovel = 20 THEN 20
+            WHEN idImovel = 21 THEN 21
+            WHEN idImovel = 22 THEN 22
+            WHEN idImovel = 23 THEN 23
+            WHEN idImovel = 24 THEN 24
+            WHEN idImovel = 25 THEN 25
+            WHEN idImovel = 26 THEN 26
+            WHEN idImovel = 27 THEN 27
+            WHEN idImovel = 28 THEN 28
+            WHEN idImovel = 29 THEN 29
+            WHEN idImovel = 30 THEN 30
+            WHEN idImovel = 31 THEN 31
+            WHEN idImovel = 32 THEN 32
+            WHEN idImovel = 33 THEN 33
+            WHEN idImovel = 34 THEN 34
+            WHEN idImovel = 35 THEN 35
+            WHEN idImovel = 36 THEN 36
+            WHEN idImovel = 37 THEN 37
+            WHEN idImovel = 38 THEN 38
+            WHEN idImovel = 39 THEN 39
+            WHEN idImovel = 40 THEN 40
+            WHEN idImovel = 41 THEN 41
+            WHEN idImovel = 42 THEN 42
+            WHEN idImovel = 43 THEN 43
+            WHEN idImovel = 44 THEN 44
+            WHEN idImovel = 45 THEN 45
+            WHEN idImovel = 46 THEN 46
+            WHEN idImovel = 47 THEN 47
+            WHEN idImovel = 48 THEN 48
+            WHEN idImovel = 49 THEN 49
+            WHEN idImovel = 50 THEN 50
+            ELSE oferta
+            END
+WHERE idImovel BETWEEN 1 AND 50;
