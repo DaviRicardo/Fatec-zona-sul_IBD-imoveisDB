@@ -68,7 +68,7 @@ CREATE TABLE IF NOT EXISTS faixa_imovel (
 
 CREATE TABLE IF NOT EXISTS imovel (
     idImovel INTEGER NOT NULL PRIMARY KEY,
-    vendedor INTEGER NOT NULL,
+    vendedor INTEGER DEFAULT NULL,
     bairro INTEGER NOT NULL,
     cidade INTEGER NOT NULL,
     sgEstado CHAR(2) NOT NULL,

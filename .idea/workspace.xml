@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78c69964-ec05-4aad-8a25-6f7e12887d24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.sql" afterDir="false" />
-    </list>
+    <list default="true" id="78c69964-ec05-4aad-8a25-6f7e12887d24" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +81,7 @@
       <workItem from="1697149145780" duration="6120000" />
       <workItem from="1697210413573" duration="5025000" />
       <workItem from="1697295028024" duration="14537000" />
-      <workItem from="1697472364652" duration="1860000" />
+      <workItem from="1697472364652" duration="2193000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -205,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694184342098</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="cidade, bairro&#10;&#10;Alteração de municípios e bairros.">
+      <created>1697477080402</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697477080402</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +233,7 @@
     <MESSAGE value="Alteração de constraint na tabela imovel&#10;&#10;Coluna oferta passa a ter constraint NULL." />
     <MESSAGE value="Atualização de dados na tabela imovel&#10;&#10;Modificação de datatype." />
     <MESSAGE value="Atualização de dados na tabela imovel&#10;&#10;Modificação de constraint." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela imovel&#10;&#10;Modificação de constraint." />
+    <MESSAGE value="cidade, bairro&#10;&#10;Alteração de municípios e bairros." />
+    <option name="LAST_COMMIT_MESSAGE" value="cidade, bairro&#10;&#10;Alteração de municípios e bairros." />
   </component>
 </project>
