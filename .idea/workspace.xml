@@ -72,7 +72,19 @@
       <workItem from="1693924854636" duration="4480000" />
       <workItem from="1694016726681" duration="17418000" />
       <workItem from="1694095246878" duration="23432000" />
-      <workItem from="1694183710845" duration="581000" />
+      <workItem from="1694183710845" duration="16160000" />
+      <workItem from="1694270284276" duration="7917000" />
+      <workItem from="1694368515559" duration="3253000" />
+      <workItem from="1694537712328" duration="27875000" />
+      <workItem from="1694636266737" duration="8307000" />
+      <workItem from="1696874561679" duration="13715000" />
+      <workItem from="1696936098200" duration="21950000" />
+      <workItem from="1697023278952" duration="13588000" />
+      <workItem from="1697109197971" duration="7040000" />
+      <workItem from="1697149145780" duration="6120000" />
+      <workItem from="1697210413573" duration="5025000" />
+      <workItem from="1697295028024" duration="14537000" />
+      <workItem from="1697472364652" duration="1860000" />
     </task>
     <task id="LOCAL-00001" summary="Script de criação do banco de dados&#10;&#10;Definição de tabelas, colunas, restrições e relacionamentos">
       <created>1692739401006</created>
@@ -186,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694120296209</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Atualização de dados na tabela imovel&#10;&#10;Modificação de constraint.">
+      <created>1694184342098</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694184342098</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +228,7 @@
     <MESSAGE value="Dados inseridos na tabela faixa_imovel" />
     <MESSAGE value="Alteração de constraint na tabela imovel&#10;&#10;Coluna oferta passa a ter constraint NULL." />
     <MESSAGE value="Atualização de dados na tabela imovel&#10;&#10;Modificação de datatype." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela imovel&#10;&#10;Modificação de datatype." />
+    <MESSAGE value="Atualização de dados na tabela imovel&#10;&#10;Modificação de constraint." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dados na tabela imovel&#10;&#10;Modificação de constraint." />
   </component>
 </project>
